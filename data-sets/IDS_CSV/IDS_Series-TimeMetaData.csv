@@ -1,0 +1,4 @@
+Type,Series Code,Time Code,Description
+Series-Time,Present value of external debt (current US$) (DT.DOD.PVLX.CD), (YR2020),Present value calculations for these countries are for public and publicly guaranteed debt only.
+Series-Time,"Present value of external debt (% of exports of goods, services and income) (DT.DOD.PVLX.EX.ZS)", (YR2020),Present value calculations for these countries are for public and publicly guaranteed debt only.
+Series-Time,Present value of external debt (% of GNI) (DT.DOD.PVLX.GN.ZS), (YR2020),Present value calculations for these countries are for public and publicly guaranteed debt only.
