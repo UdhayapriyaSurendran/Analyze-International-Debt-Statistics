@@ -1,6 +1,8 @@
 # Analyze-International-Debt-Statistics
 iNeuron internship Project --> Business Intelligence | Finance Domain
 
+
+
 Extremely delighted to share with you all people that our team members including myself Prashanth Singaravelan, Tharun Sathiyamurthy, Sairam G and Udhayapriya S have successfully completed a small project on 
 Analysis of International Debt Statistics at iNeuron.ai under Business Intelligence in Finance domain with intermediate level by performing Data Preprocessing and Visualisation.
 
