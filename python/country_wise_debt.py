@@ -4,6 +4,8 @@ import numpy as np
 query = "select * from all_countries1 where Country_Code like '%AFG%' "
 afg_ans = pd.read_sql(query, conn)
 
+
+
 print("Number of Distinct Countries : ",len(afg_ans))
 
 ## From 1970 to 2028
