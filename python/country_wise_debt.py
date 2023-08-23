@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+#file about country wise debt
 query = "select * from all_countries1 where Country_Code like '%AFG%' "
 afg_ans = pd.read_sql(query, conn)
 
