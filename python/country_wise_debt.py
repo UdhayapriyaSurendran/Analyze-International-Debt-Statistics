@@ -7,7 +7,7 @@ afg_ans = pd.read_sql(query, conn)
 
 
 print("Number of Distinct Countries : ",len(afg_ans))
-
+##sneha tried to change somehting
 ## From 1970 to 2028
 debt_years = afg_ans.iloc[:,7:66]
 debt_years.head()
